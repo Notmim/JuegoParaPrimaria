@@ -2,7 +2,7 @@ Desafío de Cálculo Galáctico
 
 1. Link al juego funcionando
 
-    [Reemplazar con tu link de GitHub Pages o Hosting] 
+    https://notmim.github.io/JuegoParaPrimaria/
 
 2. Nombre del juego y objetivo didáctico
 
@@ -28,6 +28,7 @@ Desafío de Cálculo Galáctico
 
     Tecnología: Desarrollo propio utilizando HTML, CSS y JavaScript puro (sin frameworks).
 
-    Imagen de fondo: Estilo "Truth Bullets" inspirado en la saga Danganronpa. Fuente: [Reemplazar con el link o sitio de donde sacaste la imagen final].
+    Imagen de fondo: Generada por AI.
+
 
     Tipografías: Fuentes web estándar (Segoe UI, Tahoma, sans-serif).
